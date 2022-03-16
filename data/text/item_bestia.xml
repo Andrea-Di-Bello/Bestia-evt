@@ -60,7 +60,7 @@
         <front>
             <div type="esergo">
                 <p>È questa una storia di mostri. <app>
-                    <lem wit="#bestia_einaudi"><hi rend="italic">Procul inde</hi>, chi non ne sostiene le orribili forme.</lem>
+                    <lem><hi rend="italic">Procul inde</hi>, chi non ne sostiene le orribili forme.</lem>
                     <rdg wit="#bestia_longanesi">Procul inde abite, voi che non ne sostenete le orribili forme. Noi, se ci siamo rassegnati all'ingratitudine della cronaca, è sperando che la nostra fatica serva un giorno a qualcuno, e ci diremo contenti se anche un sol uomo verrà trattenuto per essa di qua dal precipizio ruinoso.</rdg>
                 </app></p>
             </div>
@@ -71,7 +71,7 @@
             <div type="parte" n="1" xml:id="parteprima">
                 <head>
                     <app>
-                        <lem wit="#bestia_einaudi">Parte prima</lem>
+                        <lem>Parte prima</lem>
                         <rdg wit="#bestia_longanesi">PARTE PRIMA</rdg>
                     </app>
                 </head>
@@ -80,25 +80,25 @@
                 <div type="capitolo" n="1" xml:id="Parteprimacapitolo1">
                     <head>
                         <app>
-                            <lem wit="#bestia_einaudi">I.</lem>
+                            <lem>I.</lem>
                             <rdg wit="#bestia_longanesi">I</rdg>
                         </app>                        
                     </head>
                     <p>Partimmo alla volta di Dièfzarca con cuore leggero. Dopo venticinque mesi di segregazione in laboratorio l’idea di compiere un viaggio in quelle regioni <app>
-                        <lem wit="#bestia_einaudi">sperdute</lem>
+                        <lem>sperdute</lem>
                         <rdg wit="#bestia_longanesi">selvagge</rdg>
                     </app> mi <app>
-                        <lem wit="#bestia_einaudi">attirava</lem>
+                        <lem>attirava</lem>
                         <rdg wit="#bestia_longanesi">lusingava</rdg>
                     </app> ancor più della prospettiva di<app>
                         <rdg wit="#bestia_longanesi">essere finalmente sul punto di</rdg>
                     </app> comunicare al mondo della scienza le mie<app>
                         <rdg wit="#bestia_longanesi">sbalorditive</rdg>
                     </app> scoperte sulla detaltibioresi degli isopropattoni a bassissima fotonía, e credo che anche <app>
-                        <lem wit="#bestia_einaudi">il professor Pes&#250;mai</lem>                      
+                        <lem>il professor Pes&#250;mai</lem>                      
                         <rdg wit="#bestia_longanesi">Pes&#249;mai - il <hi rend="italic">professor</hi>Pes&#249;mai, lo conoscete -</rdg>
                     </app> si allontanasse con un certo sollievo <app>
-                        <lem wit="#bestia_einaudi">da quell'orco di sua moglie</lem>
+                        <lem>da quell'orco di sua moglie</lem>
                         <rdg wit="#bestia_longanesi">dalla nostra prigione</rdg>
                     </app>. Ci accompagnava<app>
                         <rdg wit="#bestia_longanesi">,</rdg>
