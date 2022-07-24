@@ -68,7 +68,7 @@
             <epigraph>
                 <p>È questa una storia di mostri. <app>
                     <rdg wit="#bestia_einaudi"><hi rend="italic">Procul inde</hi>, chi non ne sostiene le orribili forme.</rdg>
-                    <rdg wit="#bestia_longanesi"><hi rend="italic">Procul inde abite</hi>, voi che non ne sostenete le orribili forme.</rdg></app> <app type="soppressione"><rdg wit="#bestia_einaudi"/><rdg wit="#bestia_longanesi"> Noi, se ci siamo rassegnati all'ingratitudine della cronaca, è sperando che la nostra fatica serva un giorno a qualcuno, e ci diremo contenti se anche un sol uomo verrà trattenuto per essa di qua dal precipizio ruinoso.</rdg></app>
+                    <rdg wit="#bestia_longanesi"><hi rend="italic">Procul inde abite</hi>, voi che non ne sostenete le orribili forme.</rdg></app> <app><rdg wit="#bestia_einaudi"/><rdg wit="#bestia_longanesi" type="soppressione"> Noi, se ci siamo rassegnati all'ingratitudine della cronaca, è sperando che la nostra fatica serva un giorno a qualcuno, e ci diremo contenti se anche un sol uomo verrà trattenuto per essa di qua dal precipizio ruinoso.</rdg></app>
                 </p>
             </epigraph>
             
