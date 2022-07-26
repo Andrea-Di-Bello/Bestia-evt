@@ -168,7 +168,7 @@
     "variantColors": {
         "type": {
             "soppressione": "rgb(108, 145, 207)",
-            "orthographic": "rgb(91, 204, 203)",
+            "sostituzione": "rgb(91, 204, 203)",
             "punctuation": "rgb(248, 253, 136)",
             "spelling": "rgb(255, 117, 118)",
             "grammatical": "rgb(229, 103, 175)",
